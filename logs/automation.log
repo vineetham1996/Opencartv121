@@ -1,0 +1,795 @@
+15:24:57.373 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\workspace\Automation\Opencartv121\Mastertestng.xml
+
+15:24:59.518 [main] INFO  testBase.BaseClass.setup(BaseClass.java:84)oggger - Remote WebDriver initialized: chrome on Windows
+15:25:00.409 [main] INFO  testBase.BaseClass.setup(BaseClass.java:121)oggger - Navigated to: https://tutorialsninja.com/demo/
+15:25:00.431 [main] INFO  testCases.TC001_AccountRegistration.verify_account_registration(TC001_AccountRegistration.java:46)oggger - *****Starting test case *****
+15:25:00.664 [main] INFO  testCases.TC001_AccountRegistration.verify_account_registration(TC001_AccountRegistration.java:59)oggger - *****clicked on my account *****
+15:25:01.107 [main] INFO  testCases.TC001_AccountRegistration.verify_account_registration(TC001_AccountRegistration.java:62)oggger - *****clicked on Register *****
+15:25:07.578 [main] INFO  testCases.TC001_AccountRegistration.verify_account_registration(TC001_AccountRegistration.java:87)oggger - *****clicked on continue *****
+15:25:07.697 [main] INFO  testCases.TC001_AccountRegistration.verify_account_registration(TC001_AccountRegistration.java:125)oggger - ****Finished test case**********
+15:25:08.078 [main] INFO  testBase.BaseClass.teardown(BaseClass.java:131)oggger - Driver quit successfully
+15:25:08.965 [main] INFO  testBase.BaseClass.setup(BaseClass.java:84)oggger - Remote WebDriver initialized: chrome on Windows
+15:25:09.751 [main] INFO  testBase.BaseClass.setup(BaseClass.java:121)oggger - Navigated to: https://tutorialsninja.com/demo/
+15:25:09.756 [main] INFO  testCases.TC002_Login.verifyLogin(TC002_Login.java:17)oggger - *****Starting the test case*********
+15:25:09.888 [main] INFO  testCases.TC002_Login.verifyLogin(TC002_Login.java:23)oggger - *****clicked on my account *****
+15:25:10.185 [main] INFO  testCases.TC002_Login.verifyLogin(TC002_Login.java:26)oggger - *****clicked on Register *****
+15:25:15.052 [main] INFO  testBase.BaseClass.teardown(BaseClass.java:131)oggger - Driver quit successfully
+15:29:05.864 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\workspace\Automation\Opencartv121\Mastertestng.xml
+
+15:29:08.553 [main] INFO  testBase.BaseClass.setup(BaseClass.java:84)oggger - Remote WebDriver initialized: chrome on Windows
+15:29:09.543 [main] INFO  testBase.BaseClass.setup(BaseClass.java:121)oggger - Navigated to: https://tutorialsninja.com/demo/
+15:29:29.658 [main] INFO  testCases.TC001_AccountRegistration.verify_account_registration(TC001_AccountRegistration.java:46)oggger - *****Starting test case *****
+15:29:29.918 [main] INFO  testCases.TC001_AccountRegistration.verify_account_registration(TC001_AccountRegistration.java:59)oggger - *****clicked on my account *****
+15:29:30.432 [main] INFO  testCases.TC001_AccountRegistration.verify_account_registration(TC001_AccountRegistration.java:62)oggger - *****clicked on Register *****
+15:29:35.335 [main] INFO  testCases.TC001_AccountRegistration.verify_account_registration(TC001_AccountRegistration.java:87)oggger - *****clicked on continue *****
+15:29:35.483 [main] INFO  testCases.TC001_AccountRegistration.verify_account_registration(TC001_AccountRegistration.java:125)oggger - ****Finished test case**********
+15:29:35.914 [main] INFO  testBase.BaseClass.teardown(BaseClass.java:137)oggger - Driver quit successfully
+15:29:36.805 [main] INFO  testBase.BaseClass.setup(BaseClass.java:84)oggger - Remote WebDriver initialized: chrome on Windows
+15:29:37.927 [main] INFO  testBase.BaseClass.setup(BaseClass.java:121)oggger - Navigated to: https://tutorialsninja.com/demo/
+15:29:57.939 [main] INFO  testCases.TC002_Login.verifyLogin(TC002_Login.java:17)oggger - *****Starting the test case*********
+15:29:58.061 [main] INFO  testCases.TC002_Login.verifyLogin(TC002_Login.java:23)oggger - *****clicked on my account *****
+15:29:58.357 [main] INFO  testCases.TC002_Login.verifyLogin(TC002_Login.java:26)oggger - *****clicked on Register *****
+15:30:04.442 [main] INFO  testBase.BaseClass.teardown(BaseClass.java:137)oggger - Driver quit successfully
+15:31:43.724 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\workspace\Automation\Opencartv121\Paralleltesting.xml
+
+15:31:46.437 [TestNG-tests-1] INFO  testBase.BaseClass.setup(BaseClass.java:84)oggger - Remote WebDriver initialized: chrome on Windows
+15:31:48.560 [TestNG-tests-1] INFO  testBase.BaseClass.setup(BaseClass.java:121)oggger - Navigated to: https://tutorialsninja.com/demo/
+15:31:50.628 [TestNG-tests-2] INFO  testBase.BaseClass.setup(BaseClass.java:84)oggger - Remote WebDriver initialized: firefox on Windows
+15:31:53.086 [TestNG-tests-2] INFO  testBase.BaseClass.setup(BaseClass.java:121)oggger - Navigated to: https://tutorialsninja.com/demo/
+15:32:08.600 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistration.verify_account_registration(TC001_AccountRegistration.java:46)oggger - *****Starting test case *****
+15:32:08.868 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistration.verify_account_registration(TC001_AccountRegistration.java:59)oggger - *****clicked on my account *****
+15:32:09.775 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistration.verify_account_registration(TC001_AccountRegistration.java:62)oggger - *****clicked on Register *****
+15:32:13.099 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistration.verify_account_registration(TC001_AccountRegistration.java:46)oggger - *****Starting test case *****
+15:32:13.210 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistration.verify_account_registration(TC001_AccountRegistration.java:59)oggger - *****clicked on my account *****
+15:32:13.624 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistration.verify_account_registration(TC001_AccountRegistration.java:62)oggger - *****clicked on Register *****
+15:32:14.144 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistration.verify_account_registration(TC001_AccountRegistration.java:87)oggger - *****clicked on continue *****
+15:32:14.217 [TestNG-tests-2] ERROR testCases.TC001_AccountRegistration.verify_account_registration(TC001_AccountRegistration.java:121)oggger - Test failed due to exception: The element with the reference 4c471be3-3d53-4f42-a0de-049cd210252d is stale; either its node document is not the active document, or it is no longer connected to the DOM
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '24.0.1'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [0f5a231e-df43-450d-8c13-81abf0362c55, sendKeysToElement {value=[Ljava.lang.CharSequence;@41e5da06, id=4c471be3-3d53-4f42-a0de-049cd210252d}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 141.0, moz:accessibilityChecks: false, moz:buildID: 20250717180000, moz:firefoxOptions: {binary: C:\Program Files\Mozilla Fi..., prefs: {remote.active-protocols: 1}}, moz:geckodriverVersion: 0.36.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 11332, moz:profile: C:\Users\vinee\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:bidiEnabled: false, se:cdpEnabled: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Element: [[RemoteWebDriver: firefox on windows (0f5a231e-df43-450d-8c13-81abf0362c55)] -> xpath: //input[@id='input-firstname']]
+Session ID: 0f5a231e-df43-450d-8c13-81abf0362c55
+org.openqa.selenium.StaleElementReferenceException: The element with the reference 4c471be3-3d53-4f42-a0de-049cd210252d is stale; either its node document is not the active document, or it is no longer connected to the DOM
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '24.0.1'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [0f5a231e-df43-450d-8c13-81abf0362c55, sendKeysToElement {value=[Ljava.lang.CharSequence;@41e5da06, id=4c471be3-3d53-4f42-a0de-049cd210252d}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 141.0, moz:accessibilityChecks: false, moz:buildID: 20250717180000, moz:firefoxOptions: {binary: C:\Program Files\Mozilla Fi..., prefs: {remote.active-protocols: 1}}, moz:geckodriverVersion: 0.36.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 11332, moz:profile: C:\Users\vinee\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:bidiEnabled: false, se:cdpEnabled: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Element: [[RemoteWebDriver: firefox on windows (0f5a231e-df43-450d-8c13-81abf0362c55)] -> xpath: //input[@id='input-firstname']]
+Session ID: 0f5a231e-df43-450d-8c13-81abf0362c55
+	at jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62) ~[?:?]
+	at java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499) ~[?:?]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:483) ~[?:?]
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.TracedCommandExecutor.execute(TracedCommandExecutor.java:53) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:544) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:223) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebElement.sendKeys(RemoteWebElement.java:110) ~[selenium-remote-driver-4.34.0.jar:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:565) ~[?:?]
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51) ~[selenium-support-4.34.0.jar:?]
+	at jdk.proxy2.$Proxy30.sendKeys(Unknown Source) ~[?:?]
+	at pageObjects.AccountRegistrationPage.clickfirstname(AccountRegistrationPage.java:63) ~[test-classes/:?]
+	at testCases.TC001_AccountRegistration.verify_account_registration(TC001_AccountRegistration.java:67) [test-classes/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:565) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) [testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687) [testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230) [testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63) [testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995) [testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) [testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) [testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) [testng-7.11.0.jar:7.11.0]
+	at java.util.ArrayList.forEach(ArrayList.java:1604) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:741) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestRunner.run(TestRunner.java:616) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:463) [testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:64) [testng-7.11.0.jar:7.11.0]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:328) [?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1095) [?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:619) [?:?]
+	at java.lang.Thread.run(Thread.java:1447) [?:?]
+15:32:34.324 [TestNG-tests-1] ERROR testCases.TC001_AccountRegistration.verify_account_registration(TC001_AccountRegistration.java:102)oggger - Test failed
+15:32:34.324 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistration.verify_account_registration(TC001_AccountRegistration.java:125)oggger - ****Finished test case**********
+15:32:35.889 [TestNG-tests-2] INFO  testBase.BaseClass.teardown(BaseClass.java:137)oggger - Driver quit successfully
+20:51:54.906 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\workspace\Automation\Opencartv121\Griddocker.xml
+
+20:54:55.874 [main] ERROR testBase.BaseClass.setup(BaseClass.java:87)oggger - Failed to initialize remote WebDriver
+org.openqa.selenium.SessionNotCreatedException: Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure. 
+Host info: host: 'VIPIN_M', ip: '192.168.18.143'
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:562) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:244) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:173) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:151) ~[selenium-remote-driver-4.34.0.jar:?]
+	at testBase.BaseClass.setup(BaseClass.java:59) [test-classes/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:565) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) [testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:71) [testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:400) [testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:333) [testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeBeforeClassMethods(TestMethodWorker.java:188) [testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128) [testng-7.11.0.jar:7.11.0]
+	at java.util.ArrayList.forEach(ArrayList.java:1604) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:741) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestRunner.run(TestRunner.java:616) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1112) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.run(TestNG.java:1079) [testng-7.11.0.jar:7.11.0]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91) [testng-remote.jar:?]
+Caused by: org.openqa.selenium.TimeoutException: java.util.concurrent.TimeoutException
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '24.0.1'
+Driver info: driver.version: RemoteWebDriver
+	at org.openqa.selenium.remote.http.jdk.JdkHttpClient.execute(JdkHttpClient.java:427) ~[selenium-http-4.34.0.jar:?]
+	at org.openqa.selenium.remote.tracing.TracedHttpClient.execute(TracedHttpClient.java:54) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:89) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:75) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:61) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:187) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.TracedCommandExecutor.execute(TracedCommandExecutor.java:53) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:544) ~[selenium-remote-driver-4.34.0.jar:?]
+	... 28 more
+Caused by: java.util.concurrent.TimeoutException
+	at java.util.concurrent.CompletableFuture$Timeout.run(CompletableFuture.java:2990) ~[?:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:545) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:328) ~[?:?]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:309) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1095) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:619) ~[?:?]
+	at java.lang.Thread.run(Thread.java:1447) ~[?:?]
+20:56:25.756 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\workspace\Automation\Opencartv121\Griddocker.xml
+
+20:57:55.978 [main] ERROR testBase.BaseClass.setup(BaseClass.java:87)oggger - Failed to initialize remote WebDriver
+org.openqa.selenium.SessionNotCreatedException: Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure. 
+Host info: host: 'VIPIN_M', ip: '192.168.18.143'
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:562) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:244) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:173) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:151) ~[selenium-remote-driver-4.34.0.jar:?]
+	at testBase.BaseClass.setup(BaseClass.java:59) [test-classes/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:565) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) [testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:71) [testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:400) [testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:333) [testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeBeforeClassMethods(TestMethodWorker.java:188) [testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128) [testng-7.11.0.jar:7.11.0]
+	at java.util.ArrayList.forEach(ArrayList.java:1604) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:741) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestRunner.run(TestRunner.java:616) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1112) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.run(TestNG.java:1079) [testng-7.11.0.jar:7.11.0]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91) [testng-remote.jar:?]
+Caused by: org.openqa.selenium.TimeoutException: java.util.concurrent.TimeoutException
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '24.0.1'
+Driver info: driver.version: RemoteWebDriver
+	at org.openqa.selenium.remote.http.jdk.JdkHttpClient.execute(JdkHttpClient.java:427) ~[selenium-http-4.34.0.jar:?]
+	at org.openqa.selenium.remote.tracing.TracedHttpClient.execute(TracedHttpClient.java:54) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:89) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:75) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:61) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:187) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.TracedCommandExecutor.execute(TracedCommandExecutor.java:53) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:544) ~[selenium-remote-driver-4.34.0.jar:?]
+	... 28 more
+Caused by: java.util.concurrent.TimeoutException
+	at java.util.concurrent.CompletableFuture$Timeout.run(CompletableFuture.java:2990) ~[?:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:545) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:328) ~[?:?]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:309) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1095) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:619) ~[?:?]
+	at java.lang.Thread.run(Thread.java:1447) ~[?:?]
+20:57:58.689 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\workspace\Automation\Opencartv121\Griddocker.xml
+
+20:58:01.588 [main] INFO  testBase.BaseClass.setup(BaseClass.java:87)oggger - Remote WebDriver initialized: chrome on linux
+20:58:03.486 [main] INFO  testBase.BaseClass.setup(BaseClass.java:124)oggger - Navigated to: https://tutorialsninja.com/demo/
+20:58:23.562 [main] INFO  testCases.TC001_AccountRegistration.verify_account_registration(TC001_AccountRegistration.java:46)oggger - *****Starting test case *****
+20:58:23.837 [main] INFO  testCases.TC001_AccountRegistration.verify_account_registration(TC001_AccountRegistration.java:59)oggger - *****clicked on my account *****
+20:58:24.388 [main] INFO  testCases.TC001_AccountRegistration.verify_account_registration(TC001_AccountRegistration.java:62)oggger - *****clicked on Register *****
+20:58:29.158 [main] INFO  testCases.TC001_AccountRegistration.verify_account_registration(TC001_AccountRegistration.java:87)oggger - *****clicked on continue *****
+20:58:29.296 [main] INFO  testCases.TC001_AccountRegistration.verify_account_registration(TC001_AccountRegistration.java:125)oggger - ****Finished test case**********
+20:58:29.417 [main] INFO  testBase.BaseClass.teardown(BaseClass.java:140)oggger - Driver quit successfully
+20:58:29.960 [main] INFO  testBase.BaseClass.setup(BaseClass.java:87)oggger - Remote WebDriver initialized: chrome on linux
+20:58:30.788 [main] INFO  testBase.BaseClass.setup(BaseClass.java:124)oggger - Navigated to: https://tutorialsninja.com/demo/
+20:58:50.793 [main] INFO  testCases.TC002_Login.verifyLogin(TC002_Login.java:17)oggger - *****Starting the test case*********
+20:58:50.960 [main] INFO  testCases.TC002_Login.verifyLogin(TC002_Login.java:23)oggger - *****clicked on my account *****
+20:58:51.267 [main] INFO  testCases.TC002_Login.verifyLogin(TC002_Login.java:26)oggger - *****clicked on Register *****
+20:58:55.768 [main] INFO  testBase.BaseClass.teardown(BaseClass.java:140)oggger - Driver quit successfully
+20:59:26.435 [main] ERROR testBase.BaseClass.setup(BaseClass.java:90)oggger - Failed to initialize remote WebDriver
+org.openqa.selenium.SessionNotCreatedException: Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure. 
+Host info: host: 'VIPIN_M', ip: '192.168.18.143'
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:562) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:244) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:173) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:151) ~[selenium-remote-driver-4.34.0.jar:?]
+	at testBase.BaseClass.setup(BaseClass.java:60) [test-classes/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:565) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) [testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:71) [testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:400) [testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:333) [testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeBeforeClassMethods(TestMethodWorker.java:188) [testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128) [testng-7.11.0.jar:7.11.0]
+	at java.util.ArrayList.forEach(ArrayList.java:1604) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:741) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestRunner.run(TestRunner.java:616) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1112) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.run(TestNG.java:1079) [testng-7.11.0.jar:7.11.0]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91) [testng-remote.jar:?]
+Caused by: org.openqa.selenium.TimeoutException: java.util.concurrent.TimeoutException
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '24.0.1'
+Driver info: driver.version: RemoteWebDriver
+	at org.openqa.selenium.remote.http.jdk.JdkHttpClient.execute(JdkHttpClient.java:427) ~[selenium-http-4.34.0.jar:?]
+	at org.openqa.selenium.remote.tracing.TracedHttpClient.execute(TracedHttpClient.java:54) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:89) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:75) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:61) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:187) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.TracedCommandExecutor.execute(TracedCommandExecutor.java:53) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:544) ~[selenium-remote-driver-4.34.0.jar:?]
+	... 28 more
+Caused by: java.util.concurrent.TimeoutException
+	at java.util.concurrent.CompletableFuture$Timeout.run(CompletableFuture.java:2990) ~[?:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:545) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:328) ~[?:?]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:309) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1095) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:619) ~[?:?]
+	at java.lang.Thread.run(Thread.java:1447) ~[?:?]
+20:59:32.951 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\workspace\Automation\Opencartv121\Griddocker.xml
+
+20:59:34.355 [main] INFO  testBase.BaseClass.setup(BaseClass.java:87)oggger - Remote WebDriver initialized: chrome on Linux
+20:59:35.418 [main] INFO  testBase.BaseClass.setup(BaseClass.java:124)oggger - Navigated to: https://tutorialsninja.com/demo/
+20:59:55.454 [main] INFO  testCases.TC001_AccountRegistration.verify_account_registration(TC001_AccountRegistration.java:46)oggger - *****Starting test case *****
+20:59:55.615 [main] INFO  testCases.TC001_AccountRegistration.verify_account_registration(TC001_AccountRegistration.java:59)oggger - *****clicked on my account *****
+20:59:56.230 [main] INFO  testCases.TC001_AccountRegistration.verify_account_registration(TC001_AccountRegistration.java:62)oggger - *****clicked on Register *****
+21:00:00.901 [main] INFO  testCases.TC001_AccountRegistration.verify_account_registration(TC001_AccountRegistration.java:87)oggger - *****clicked on continue *****
+21:00:01.035 [main] INFO  testCases.TC001_AccountRegistration.verify_account_registration(TC001_AccountRegistration.java:125)oggger - ****Finished test case**********
+21:00:01.155 [main] INFO  testBase.BaseClass.teardown(BaseClass.java:140)oggger - Driver quit successfully
+21:00:01.711 [main] INFO  testBase.BaseClass.setup(BaseClass.java:87)oggger - Remote WebDriver initialized: chrome on Linux
+21:00:04.301 [main] INFO  testBase.BaseClass.setup(BaseClass.java:124)oggger - Navigated to: https://tutorialsninja.com/demo/
+21:00:24.304 [main] INFO  testCases.TC002_Login.verifyLogin(TC002_Login.java:17)oggger - *****Starting the test case*********
+21:00:24.459 [main] INFO  testCases.TC002_Login.verifyLogin(TC002_Login.java:23)oggger - *****clicked on my account *****
+21:00:24.814 [main] INFO  testCases.TC002_Login.verifyLogin(TC002_Login.java:26)oggger - *****clicked on Register *****
+21:00:29.710 [main] INFO  testBase.BaseClass.teardown(BaseClass.java:140)oggger - Driver quit successfully
+21:02:26.484 [main] ERROR testBase.BaseClass.setup(BaseClass.java:90)oggger - Failed to initialize remote WebDriver
+org.openqa.selenium.SessionNotCreatedException: Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure. 
+Host info: host: 'VIPIN_M', ip: '192.168.18.143'
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:562) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:244) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:173) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:151) ~[selenium-remote-driver-4.34.0.jar:?]
+	at testBase.BaseClass.setup(BaseClass.java:60) [test-classes/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:565) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) [testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:71) [testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:400) [testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:333) [testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeBeforeClassMethods(TestMethodWorker.java:188) [testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128) [testng-7.11.0.jar:7.11.0]
+	at java.util.ArrayList.forEach(ArrayList.java:1604) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:741) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestRunner.run(TestRunner.java:616) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1112) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.run(TestNG.java:1079) [testng-7.11.0.jar:7.11.0]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91) [testng-remote.jar:?]
+Caused by: org.openqa.selenium.TimeoutException: java.util.concurrent.TimeoutException
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '24.0.1'
+Driver info: driver.version: RemoteWebDriver
+	at org.openqa.selenium.remote.http.jdk.JdkHttpClient.execute(JdkHttpClient.java:427) ~[selenium-http-4.34.0.jar:?]
+	at org.openqa.selenium.remote.tracing.TracedHttpClient.execute(TracedHttpClient.java:54) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:89) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:75) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:61) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:187) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.TracedCommandExecutor.execute(TracedCommandExecutor.java:53) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:544) ~[selenium-remote-driver-4.34.0.jar:?]
+	... 28 more
+Caused by: java.util.concurrent.TimeoutException
+	at java.util.concurrent.CompletableFuture$Timeout.run(CompletableFuture.java:2990) ~[?:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:545) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:328) ~[?:?]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:309) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1095) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:619) ~[?:?]
+	at java.lang.Thread.run(Thread.java:1447) ~[?:?]
+21:03:33.290 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\workspace\Automation\Opencartv121\Griddocker.xml
+
+21:03:34.909 [main] INFO  testBase.BaseClass.setup(BaseClass.java:87)oggger - Remote WebDriver initialized: chrome on Linux
+21:03:38.536 [main] INFO  testBase.BaseClass.setup(BaseClass.java:124)oggger - Navigated to: https://tutorialsninja.com/demo/
+21:03:58.565 [main] INFO  testCases.TC001_AccountRegistration.verify_account_registration(TC001_AccountRegistration.java:46)oggger - *****Starting test case *****
+21:03:58.701 [main] INFO  testCases.TC001_AccountRegistration.verify_account_registration(TC001_AccountRegistration.java:59)oggger - *****clicked on my account *****
+21:03:59.279 [main] INFO  testCases.TC001_AccountRegistration.verify_account_registration(TC001_AccountRegistration.java:62)oggger - *****clicked on Register *****
+21:04:03.695 [main] INFO  testCases.TC001_AccountRegistration.verify_account_registration(TC001_AccountRegistration.java:87)oggger - *****clicked on continue *****
+21:04:03.789 [main] INFO  testCases.TC001_AccountRegistration.verify_account_registration(TC001_AccountRegistration.java:125)oggger - ****Finished test case**********
+21:04:03.895 [main] INFO  testBase.BaseClass.teardown(BaseClass.java:140)oggger - Driver quit successfully
+21:04:04.372 [main] INFO  testBase.BaseClass.setup(BaseClass.java:87)oggger - Remote WebDriver initialized: chrome on Linux
+21:04:06.340 [main] INFO  testBase.BaseClass.setup(BaseClass.java:124)oggger - Navigated to: https://tutorialsninja.com/demo/
+21:04:26.346 [main] INFO  testCases.TC002_Login.verifyLogin(TC002_Login.java:17)oggger - *****Starting the test case*********
+21:04:26.460 [main] INFO  testCases.TC002_Login.verifyLogin(TC002_Login.java:23)oggger - *****clicked on my account *****
+21:04:26.831 [main] INFO  testCases.TC002_Login.verifyLogin(TC002_Login.java:26)oggger - *****clicked on Register *****
+21:04:31.611 [main] INFO  testBase.BaseClass.teardown(BaseClass.java:140)oggger - Driver quit successfully
+21:04:36.056 [main] INFO  testBase.BaseClass.setup(BaseClass.java:87)oggger - Remote WebDriver initialized: firefox on Linux
+21:04:37.813 [main] INFO  testBase.BaseClass.setup(BaseClass.java:124)oggger - Navigated to: https://tutorialsninja.com/demo/
+21:04:57.822 [main] INFO  testCases.TC001_AccountRegistration.verify_account_registration(TC001_AccountRegistration.java:46)oggger - *****Starting test case *****
+21:04:58.147 [main] INFO  testCases.TC001_AccountRegistration.verify_account_registration(TC001_AccountRegistration.java:59)oggger - *****clicked on my account *****
+21:04:58.724 [main] INFO  testCases.TC001_AccountRegistration.verify_account_registration(TC001_AccountRegistration.java:62)oggger - *****clicked on Register *****
+21:05:06.037 [main] INFO  testCases.TC001_AccountRegistration.verify_account_registration(TC001_AccountRegistration.java:87)oggger - *****clicked on continue *****
+21:05:06.151 [main] INFO  testCases.TC001_AccountRegistration.verify_account_registration(TC001_AccountRegistration.java:125)oggger - ****Finished test case**********
+21:05:06.848 [main] INFO  testBase.BaseClass.teardown(BaseClass.java:140)oggger - Driver quit successfully
+21:05:08.862 [main] INFO  testBase.BaseClass.setup(BaseClass.java:87)oggger - Remote WebDriver initialized: firefox on Linux
+21:05:11.034 [main] INFO  testBase.BaseClass.setup(BaseClass.java:124)oggger - Navigated to: https://tutorialsninja.com/demo/
+21:05:31.039 [main] INFO  testCases.TC002_Login.verifyLogin(TC002_Login.java:17)oggger - *****Starting the test case*********
+21:05:31.308 [main] INFO  testCases.TC002_Login.verifyLogin(TC002_Login.java:23)oggger - *****clicked on my account *****
+21:05:31.560 [main] INFO  testCases.TC002_Login.verifyLogin(TC002_Login.java:26)oggger - *****clicked on Register *****
+21:05:36.513 [main] INFO  testBase.BaseClass.teardown(BaseClass.java:140)oggger - Driver quit successfully
+11:08:22.738 [main] ERROR testBase.BaseClass.setup(BaseClass.java:90)oggger - Failed to initialize remote WebDriver
+org.openqa.selenium.SessionNotCreatedException: Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure. 
+Host info: host: 'VIPIN_M', ip: '192.168.18.143'
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '24.0.1'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [null, newSession {capabilities=[Capabilities {browserName: chrome, goog:chromeOptions: {args: [], extensions: []}, platformName: windows}]}]
+Capabilities {browserName: chrome, goog:chromeOptions: {args: [], extensions: []}, platformName: windows}
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:562) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:244) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:173) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:151) ~[selenium-remote-driver-4.34.0.jar:?]
+	at testBase.BaseClass.setup(BaseClass.java:60) [test-classes/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:565) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) [testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:71) [testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:400) [testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:333) [testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeBeforeClassMethods(TestMethodWorker.java:188) [testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128) [testng-7.11.0.jar:7.11.0]
+	at java.util.ArrayList.forEach(ArrayList.java:1604) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:741) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestRunner.run(TestRunner.java:616) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1112) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.run(TestNG.java:1079) [testng-7.11.0.jar:7.11.0]
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:308) [surefire-testng-3.5.3.jar:3.5.3]
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:71) [surefire-testng-3.5.3.jar:3.5.3]
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:113) [surefire-testng-3.5.3.jar:3.5.3]
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:385) [surefire-booter-3.5.3.jar:3.5.3]
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162) [surefire-booter-3.5.3.jar:3.5.3]
+	at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507) [surefire-booter-3.5.3.jar:3.5.3]
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495) [surefire-booter-3.5.3.jar:3.5.3]
+Caused by: java.io.UncheckedIOException: java.net.ConnectException
+	at org.openqa.selenium.remote.http.jdk.JdkHttpClient.execute0(JdkHttpClient.java:500) ~[selenium-http-4.34.0.jar:?]
+	at org.openqa.selenium.remote.http.AddSeleniumUserAgent.lambda$apply$0(AddSeleniumUserAgent.java:42) ~[selenium-http-4.34.0.jar:?]
+	at org.openqa.selenium.remote.http.Filter.lambda$andFinally$1(Filter.java:55) ~[selenium-http-4.34.0.jar:?]
+	at org.openqa.selenium.remote.http.jdk.JdkHttpClient.lambda$executeAsync$2(JdkHttpClient.java:387) ~[selenium-http-4.34.0.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:545) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:328) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1095) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:619) ~[?:?]
+	at java.lang.Thread.run(Thread.java:1447) ~[?:?]
+Caused by: java.net.ConnectException
+	at jdk.internal.net.http.HttpClientImpl.send(HttpClientImpl.java:923) ~[java.net.http:?]
+	at jdk.internal.net.http.HttpClientFacade.send(HttpClientFacade.java:133) ~[java.net.http:?]
+	at org.openqa.selenium.remote.http.jdk.JdkHttpClient.execute0(JdkHttpClient.java:459) ~[selenium-http-4.34.0.jar:?]
+	at org.openqa.selenium.remote.http.AddSeleniumUserAgent.lambda$apply$0(AddSeleniumUserAgent.java:42) ~[selenium-http-4.34.0.jar:?]
+	at org.openqa.selenium.remote.http.Filter.lambda$andFinally$1(Filter.java:55) ~[selenium-http-4.34.0.jar:?]
+	at org.openqa.selenium.remote.http.jdk.JdkHttpClient.lambda$executeAsync$2(JdkHttpClient.java:387) ~[selenium-http-4.34.0.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:545) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:328) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1095) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:619) ~[?:?]
+	at java.lang.Thread.run(Thread.java:1447) ~[?:?]
+Caused by: java.net.ConnectException
+	at jdk.internal.net.http.common.Utils.toConnectException(Utils.java:1046) ~[java.net.http:?]
+	at jdk.internal.net.http.PlainHttpConnection.connectAsync(PlainHttpConnection.java:215) ~[java.net.http:?]
+	at jdk.internal.net.http.PlainHttpConnection.checkRetryConnect(PlainHttpConnection.java:268) ~[java.net.http:?]
+	at jdk.internal.net.http.PlainHttpConnection.lambda$connectAsync$0(PlainHttpConnection.java:226) ~[java.net.http:?]
+	at java.util.concurrent.CompletableFuture.uniHandle(CompletableFuture.java:980) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniHandle.tryFire(CompletableFuture.java:957) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:556) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1819) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1095) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:619) ~[?:?]
+	at java.lang.Thread.run(Thread.java:1447) ~[?:?]
+Caused by: java.nio.channels.ClosedChannelException
+	at sun.nio.ch.SocketChannelImpl.ensureOpen(SocketChannelImpl.java:204) ~[?:?]
+	at sun.nio.ch.SocketChannelImpl.connect(SocketChannelImpl.java:942) ~[?:?]
+	at jdk.internal.net.http.PlainHttpConnection.connectAsync(PlainHttpConnection.java:203) ~[java.net.http:?]
+	at jdk.internal.net.http.PlainHttpConnection.checkRetryConnect(PlainHttpConnection.java:268) ~[java.net.http:?]
+	at jdk.internal.net.http.PlainHttpConnection.lambda$connectAsync$0(PlainHttpConnection.java:226) ~[java.net.http:?]
+	at java.util.concurrent.CompletableFuture.uniHandle(CompletableFuture.java:980) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniHandle.tryFire(CompletableFuture.java:957) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:556) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1819) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1095) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:619) ~[?:?]
+	at java.lang.Thread.run(Thread.java:1447) ~[?:?]
+11:08:22.793 [main] ERROR testBase.BaseClass.setup(BaseClass.java:90)oggger - Failed to initialize remote WebDriver
+org.openqa.selenium.SessionNotCreatedException: Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure. 
+Host info: host: 'VIPIN_M', ip: '192.168.18.143'
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '24.0.1'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [null, newSession {capabilities=[Capabilities {browserName: chrome, goog:chromeOptions: {args: [], extensions: []}, platformName: windows}]}]
+Capabilities {browserName: chrome, goog:chromeOptions: {args: [], extensions: []}, platformName: windows}
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:562) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:244) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:173) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:151) ~[selenium-remote-driver-4.34.0.jar:?]
+	at testBase.BaseClass.setup(BaseClass.java:60) [test-classes/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:565) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) [testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:71) [testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:400) [testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:333) [testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeBeforeClassMethods(TestMethodWorker.java:188) [testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128) [testng-7.11.0.jar:7.11.0]
+	at java.util.ArrayList.forEach(ArrayList.java:1604) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:741) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestRunner.run(TestRunner.java:616) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1112) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.run(TestNG.java:1079) [testng-7.11.0.jar:7.11.0]
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:308) [surefire-testng-3.5.3.jar:3.5.3]
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:71) [surefire-testng-3.5.3.jar:3.5.3]
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:113) [surefire-testng-3.5.3.jar:3.5.3]
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:385) [surefire-booter-3.5.3.jar:3.5.3]
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162) [surefire-booter-3.5.3.jar:3.5.3]
+	at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507) [surefire-booter-3.5.3.jar:3.5.3]
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495) [surefire-booter-3.5.3.jar:3.5.3]
+Caused by: java.io.UncheckedIOException: java.net.ConnectException
+	at org.openqa.selenium.remote.http.jdk.JdkHttpClient.execute0(JdkHttpClient.java:500) ~[selenium-http-4.34.0.jar:?]
+	at org.openqa.selenium.remote.http.AddSeleniumUserAgent.lambda$apply$0(AddSeleniumUserAgent.java:42) ~[selenium-http-4.34.0.jar:?]
+	at org.openqa.selenium.remote.http.Filter.lambda$andFinally$1(Filter.java:55) ~[selenium-http-4.34.0.jar:?]
+	at org.openqa.selenium.remote.http.jdk.JdkHttpClient.lambda$executeAsync$2(JdkHttpClient.java:387) ~[selenium-http-4.34.0.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:545) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:328) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1095) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:619) ~[?:?]
+	at java.lang.Thread.run(Thread.java:1447) ~[?:?]
+Caused by: java.net.ConnectException
+	at jdk.internal.net.http.HttpClientImpl.send(HttpClientImpl.java:923) ~[java.net.http:?]
+	at jdk.internal.net.http.HttpClientFacade.send(HttpClientFacade.java:133) ~[java.net.http:?]
+	at org.openqa.selenium.remote.http.jdk.JdkHttpClient.execute0(JdkHttpClient.java:459) ~[selenium-http-4.34.0.jar:?]
+	at org.openqa.selenium.remote.http.AddSeleniumUserAgent.lambda$apply$0(AddSeleniumUserAgent.java:42) ~[selenium-http-4.34.0.jar:?]
+	at org.openqa.selenium.remote.http.Filter.lambda$andFinally$1(Filter.java:55) ~[selenium-http-4.34.0.jar:?]
+	at org.openqa.selenium.remote.http.jdk.JdkHttpClient.lambda$executeAsync$2(JdkHttpClient.java:387) ~[selenium-http-4.34.0.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:545) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:328) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1095) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:619) ~[?:?]
+	at java.lang.Thread.run(Thread.java:1447) ~[?:?]
+Caused by: java.net.ConnectException
+	at jdk.internal.net.http.common.Utils.toConnectException(Utils.java:1046) ~[java.net.http:?]
+	at jdk.internal.net.http.PlainHttpConnection.connectAsync(PlainHttpConnection.java:215) ~[java.net.http:?]
+	at jdk.internal.net.http.PlainHttpConnection.checkRetryConnect(PlainHttpConnection.java:268) ~[java.net.http:?]
+	at jdk.internal.net.http.PlainHttpConnection.lambda$connectAsync$0(PlainHttpConnection.java:226) ~[java.net.http:?]
+	at java.util.concurrent.CompletableFuture.uniHandle(CompletableFuture.java:980) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniHandle.tryFire(CompletableFuture.java:957) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:556) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1819) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1095) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:619) ~[?:?]
+	at java.lang.Thread.run(Thread.java:1447) ~[?:?]
+Caused by: java.nio.channels.ClosedChannelException
+	at sun.nio.ch.SocketChannelImpl.ensureOpen(SocketChannelImpl.java:204) ~[?:?]
+	at sun.nio.ch.SocketChannelImpl.connect(SocketChannelImpl.java:942) ~[?:?]
+	at jdk.internal.net.http.PlainHttpConnection.connectAsync(PlainHttpConnection.java:203) ~[java.net.http:?]
+	at jdk.internal.net.http.PlainHttpConnection.checkRetryConnect(PlainHttpConnection.java:268) ~[java.net.http:?]
+	at jdk.internal.net.http.PlainHttpConnection.lambda$connectAsync$0(PlainHttpConnection.java:226) ~[java.net.http:?]
+	at java.util.concurrent.CompletableFuture.uniHandle(CompletableFuture.java:980) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniHandle.tryFire(CompletableFuture.java:957) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:556) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1819) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1095) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:619) ~[?:?]
+	at java.lang.Thread.run(Thread.java:1447) ~[?:?]
+11:10:08.844 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\workspace\Automation\Opencartv121\Mastertestng.xml
+
+11:10:09.437 [main] ERROR testBase.BaseClass.setup(BaseClass.java:90)oggger - Failed to initialize remote WebDriver
+org.openqa.selenium.SessionNotCreatedException: Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure. 
+Host info: host: 'VIPIN_M', ip: '192.168.18.143'
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '24.0.1'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [null, newSession {capabilities=[Capabilities {browserName: chrome, goog:chromeOptions: {args: [], extensions: []}, platformName: windows}]}]
+Capabilities {browserName: chrome, goog:chromeOptions: {args: [], extensions: []}, platformName: windows}
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:562) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:244) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:173) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:151) ~[selenium-remote-driver-4.34.0.jar:?]
+	at testBase.BaseClass.setup(BaseClass.java:60) [test-classes/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:565) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) [testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:71) [testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:400) [testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:333) [testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeBeforeClassMethods(TestMethodWorker.java:188) [testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128) [testng-7.11.0.jar:7.11.0]
+	at java.util.ArrayList.forEach(ArrayList.java:1604) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:741) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestRunner.run(TestRunner.java:616) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1112) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.run(TestNG.java:1079) [testng-7.11.0.jar:7.11.0]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91) [testng-remote.jar:?]
+Caused by: java.io.UncheckedIOException: java.net.ConnectException
+	at org.openqa.selenium.remote.http.jdk.JdkHttpClient.execute0(JdkHttpClient.java:500) ~[selenium-http-4.34.0.jar:?]
+	at org.openqa.selenium.remote.http.AddSeleniumUserAgent.lambda$apply$0(AddSeleniumUserAgent.java:42) ~[selenium-http-4.34.0.jar:?]
+	at org.openqa.selenium.remote.http.Filter.lambda$andFinally$1(Filter.java:55) ~[selenium-http-4.34.0.jar:?]
+	at org.openqa.selenium.remote.http.jdk.JdkHttpClient.lambda$executeAsync$2(JdkHttpClient.java:387) ~[selenium-http-4.34.0.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:545) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:328) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1095) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:619) ~[?:?]
+	at java.lang.Thread.run(Thread.java:1447) ~[?:?]
+Caused by: java.net.ConnectException
+	at jdk.internal.net.http.HttpClientImpl.send(HttpClientImpl.java:923) ~[java.net.http:?]
+	at jdk.internal.net.http.HttpClientFacade.send(HttpClientFacade.java:133) ~[java.net.http:?]
+	at org.openqa.selenium.remote.http.jdk.JdkHttpClient.execute0(JdkHttpClient.java:459) ~[selenium-http-4.34.0.jar:?]
+	at org.openqa.selenium.remote.http.AddSeleniumUserAgent.lambda$apply$0(AddSeleniumUserAgent.java:42) ~[selenium-http-4.34.0.jar:?]
+	at org.openqa.selenium.remote.http.Filter.lambda$andFinally$1(Filter.java:55) ~[selenium-http-4.34.0.jar:?]
+	at org.openqa.selenium.remote.http.jdk.JdkHttpClient.lambda$executeAsync$2(JdkHttpClient.java:387) ~[selenium-http-4.34.0.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:545) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:328) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1095) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:619) ~[?:?]
+	at java.lang.Thread.run(Thread.java:1447) ~[?:?]
+Caused by: java.net.ConnectException
+	at jdk.internal.net.http.common.Utils.toConnectException(Utils.java:1046) ~[java.net.http:?]
+	at jdk.internal.net.http.PlainHttpConnection.connectAsync(PlainHttpConnection.java:215) ~[java.net.http:?]
+	at jdk.internal.net.http.PlainHttpConnection.checkRetryConnect(PlainHttpConnection.java:268) ~[java.net.http:?]
+	at jdk.internal.net.http.PlainHttpConnection.lambda$connectAsync$0(PlainHttpConnection.java:226) ~[java.net.http:?]
+	at java.util.concurrent.CompletableFuture.uniHandle(CompletableFuture.java:980) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniHandle.tryFire(CompletableFuture.java:957) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:556) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1819) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1095) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:619) ~[?:?]
+	at java.lang.Thread.run(Thread.java:1447) ~[?:?]
+Caused by: java.nio.channels.ClosedChannelException
+	at sun.nio.ch.SocketChannelImpl.ensureOpen(SocketChannelImpl.java:204) ~[?:?]
+	at sun.nio.ch.SocketChannelImpl.connect(SocketChannelImpl.java:942) ~[?:?]
+	at jdk.internal.net.http.PlainHttpConnection.connectAsync(PlainHttpConnection.java:203) ~[java.net.http:?]
+	at jdk.internal.net.http.PlainHttpConnection.checkRetryConnect(PlainHttpConnection.java:268) ~[java.net.http:?]
+	at jdk.internal.net.http.PlainHttpConnection.lambda$connectAsync$0(PlainHttpConnection.java:226) ~[java.net.http:?]
+	at java.util.concurrent.CompletableFuture.uniHandle(CompletableFuture.java:980) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniHandle.tryFire(CompletableFuture.java:957) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:556) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1819) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1095) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:619) ~[?:?]
+	at java.lang.Thread.run(Thread.java:1447) ~[?:?]
+11:10:09.505 [main] ERROR testBase.BaseClass.setup(BaseClass.java:90)oggger - Failed to initialize remote WebDriver
+org.openqa.selenium.SessionNotCreatedException: Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure. 
+Host info: host: 'VIPIN_M', ip: '192.168.18.143'
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '24.0.1'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [null, newSession {capabilities=[Capabilities {browserName: chrome, goog:chromeOptions: {args: [], extensions: []}, platformName: windows}]}]
+Capabilities {browserName: chrome, goog:chromeOptions: {args: [], extensions: []}, platformName: windows}
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:562) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:244) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:173) ~[selenium-remote-driver-4.34.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:151) ~[selenium-remote-driver-4.34.0.jar:?]
+	at testBase.BaseClass.setup(BaseClass.java:60) [test-classes/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:565) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) [testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:71) [testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:400) [testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:333) [testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeBeforeClassMethods(TestMethodWorker.java:188) [testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128) [testng-7.11.0.jar:7.11.0]
+	at java.util.ArrayList.forEach(ArrayList.java:1604) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:741) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestRunner.run(TestRunner.java:616) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1112) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.run(TestNG.java:1079) [testng-7.11.0.jar:7.11.0]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91) [testng-remote.jar:?]
+Caused by: java.io.UncheckedIOException: java.net.ConnectException
+	at org.openqa.selenium.remote.http.jdk.JdkHttpClient.execute0(JdkHttpClient.java:500) ~[selenium-http-4.34.0.jar:?]
+	at org.openqa.selenium.remote.http.AddSeleniumUserAgent.lambda$apply$0(AddSeleniumUserAgent.java:42) ~[selenium-http-4.34.0.jar:?]
+	at org.openqa.selenium.remote.http.Filter.lambda$andFinally$1(Filter.java:55) ~[selenium-http-4.34.0.jar:?]
+	at org.openqa.selenium.remote.http.jdk.JdkHttpClient.lambda$executeAsync$2(JdkHttpClient.java:387) ~[selenium-http-4.34.0.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:545) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:328) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1095) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:619) ~[?:?]
+	at java.lang.Thread.run(Thread.java:1447) ~[?:?]
+Caused by: java.net.ConnectException
+	at jdk.internal.net.http.HttpClientImpl.send(HttpClientImpl.java:923) ~[java.net.http:?]
+	at jdk.internal.net.http.HttpClientFacade.send(HttpClientFacade.java:133) ~[java.net.http:?]
+	at org.openqa.selenium.remote.http.jdk.JdkHttpClient.execute0(JdkHttpClient.java:459) ~[selenium-http-4.34.0.jar:?]
+	at org.openqa.selenium.remote.http.AddSeleniumUserAgent.lambda$apply$0(AddSeleniumUserAgent.java:42) ~[selenium-http-4.34.0.jar:?]
+	at org.openqa.selenium.remote.http.Filter.lambda$andFinally$1(Filter.java:55) ~[selenium-http-4.34.0.jar:?]
+	at org.openqa.selenium.remote.http.jdk.JdkHttpClient.lambda$executeAsync$2(JdkHttpClient.java:387) ~[selenium-http-4.34.0.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:545) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:328) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1095) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:619) ~[?:?]
+	at java.lang.Thread.run(Thread.java:1447) ~[?:?]
+Caused by: java.net.ConnectException
+	at jdk.internal.net.http.common.Utils.toConnectException(Utils.java:1046) ~[java.net.http:?]
+	at jdk.internal.net.http.PlainHttpConnection.connectAsync(PlainHttpConnection.java:215) ~[java.net.http:?]
+	at jdk.internal.net.http.PlainHttpConnection.checkRetryConnect(PlainHttpConnection.java:268) ~[java.net.http:?]
+	at jdk.internal.net.http.PlainHttpConnection.lambda$connectAsync$0(PlainHttpConnection.java:226) ~[java.net.http:?]
+	at java.util.concurrent.CompletableFuture.uniHandle(CompletableFuture.java:980) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniHandle.tryFire(CompletableFuture.java:957) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:556) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1819) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1095) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:619) ~[?:?]
+	at java.lang.Thread.run(Thread.java:1447) ~[?:?]
+Caused by: java.nio.channels.ClosedChannelException
+	at sun.nio.ch.SocketChannelImpl.ensureOpen(SocketChannelImpl.java:204) ~[?:?]
+	at sun.nio.ch.SocketChannelImpl.connect(SocketChannelImpl.java:942) ~[?:?]
+	at jdk.internal.net.http.PlainHttpConnection.connectAsync(PlainHttpConnection.java:203) ~[java.net.http:?]
+	at jdk.internal.net.http.PlainHttpConnection.checkRetryConnect(PlainHttpConnection.java:268) ~[java.net.http:?]
+	at jdk.internal.net.http.PlainHttpConnection.lambda$connectAsync$0(PlainHttpConnection.java:226) ~[java.net.http:?]
+	at java.util.concurrent.CompletableFuture.uniHandle(CompletableFuture.java:980) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniHandle.tryFire(CompletableFuture.java:957) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:556) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1819) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1095) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:619) ~[?:?]
+	at java.lang.Thread.run(Thread.java:1447) ~[?:?]
+11:12:53.830 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\workspace\Automation\Opencartv121\Mastertestng.xml
+
+11:12:55.973 [main] INFO  testBase.BaseClass.setup(BaseClass.java:110)oggger - Local WebDriver initialized: chrome
+11:12:56.746 [main] INFO  testBase.BaseClass.setup(BaseClass.java:124)oggger - Navigated to: https://tutorialsninja.com/demo/
+11:13:16.785 [main] INFO  testCases.TC001_AccountRegistration.verify_account_registration(TC001_AccountRegistration.java:46)oggger - *****Starting test case *****
+11:13:16.931 [main] INFO  testCases.TC001_AccountRegistration.verify_account_registration(TC001_AccountRegistration.java:59)oggger - *****clicked on my account *****
+11:13:17.377 [main] INFO  testCases.TC001_AccountRegistration.verify_account_registration(TC001_AccountRegistration.java:62)oggger - *****clicked on Register *****
+11:13:21.621 [main] INFO  testCases.TC001_AccountRegistration.verify_account_registration(TC001_AccountRegistration.java:87)oggger - *****clicked on continue *****
+11:13:21.684 [main] INFO  testCases.TC001_AccountRegistration.verify_account_registration(TC001_AccountRegistration.java:125)oggger - ****Finished test case**********
+11:13:21.973 [main] INFO  testBase.BaseClass.teardown(BaseClass.java:140)oggger - Driver quit successfully
+11:13:22.695 [main] INFO  testBase.BaseClass.setup(BaseClass.java:110)oggger - Local WebDriver initialized: chrome
+11:13:23.426 [main] INFO  testBase.BaseClass.setup(BaseClass.java:124)oggger - Navigated to: https://tutorialsninja.com/demo/
+11:13:43.430 [main] INFO  testCases.TC002_Login.verifyLogin(TC002_Login.java:17)oggger - *****Starting the test case*********
+11:13:43.539 [main] INFO  testCases.TC002_Login.verifyLogin(TC002_Login.java:23)oggger - *****clicked on my account *****
+11:13:43.770 [main] INFO  testCases.TC002_Login.verifyLogin(TC002_Login.java:26)oggger - *****clicked on Register *****
+11:13:48.067 [main] INFO  testBase.BaseClass.teardown(BaseClass.java:140)oggger - Driver quit successfully
+11:14:13.871 [main] INFO  testBase.BaseClass.setup(BaseClass.java:110)oggger - Local WebDriver initialized: chrome
+11:14:14.720 [main] INFO  testBase.BaseClass.setup(BaseClass.java:124)oggger - Navigated to: https://tutorialsninja.com/demo/
+11:14:34.756 [main] INFO  testCases.TC001_AccountRegistration.verify_account_registration(TC001_AccountRegistration.java:46)oggger - *****Starting test case *****
+11:14:34.884 [main] INFO  testCases.TC001_AccountRegistration.verify_account_registration(TC001_AccountRegistration.java:59)oggger - *****clicked on my account *****
+11:14:35.342 [main] INFO  testCases.TC001_AccountRegistration.verify_account_registration(TC001_AccountRegistration.java:62)oggger - *****clicked on Register *****
+11:14:39.614 [main] INFO  testCases.TC001_AccountRegistration.verify_account_registration(TC001_AccountRegistration.java:87)oggger - *****clicked on continue *****
+11:14:39.703 [main] INFO  testCases.TC001_AccountRegistration.verify_account_registration(TC001_AccountRegistration.java:125)oggger - ****Finished test case**********
+11:14:39.959 [main] INFO  testBase.BaseClass.teardown(BaseClass.java:140)oggger - Driver quit successfully
+11:14:40.683 [main] INFO  testBase.BaseClass.setup(BaseClass.java:110)oggger - Local WebDriver initialized: chrome
+11:14:41.453 [main] INFO  testBase.BaseClass.setup(BaseClass.java:124)oggger - Navigated to: https://tutorialsninja.com/demo/
+11:15:01.460 [main] INFO  testCases.TC002_Login.verifyLogin(TC002_Login.java:17)oggger - *****Starting the test case*********
+11:15:01.538 [main] INFO  testCases.TC002_Login.verifyLogin(TC002_Login.java:23)oggger - *****clicked on my account *****
+11:15:02.755 [main] INFO  testCases.TC002_Login.verifyLogin(TC002_Login.java:26)oggger - *****clicked on Register *****
+11:15:11.611 [main] INFO  testBase.BaseClass.teardown(BaseClass.java:140)oggger - Driver quit successfully
+19:32:57.514 [main] INFO  testBase.BaseClass.setup(BaseClass.java:110)oggger - Local WebDriver initialized: chrome
+19:32:59.425 [main] INFO  testBase.BaseClass.setup(BaseClass.java:124)oggger - Navigated to: https://tutorialsninja.com/demo/
+19:33:19.455 [main] INFO  testCases.TC001_AccountRegistration.verify_account_registration(TC001_AccountRegistration.java:46)oggger - *****Starting test case *****
+19:33:19.606 [main] INFO  testCases.TC001_AccountRegistration.verify_account_registration(TC001_AccountRegistration.java:59)oggger - *****clicked on my account *****
+19:33:20.164 [main] INFO  testCases.TC001_AccountRegistration.verify_account_registration(TC001_AccountRegistration.java:62)oggger - *****clicked on Register *****
+19:33:24.700 [main] INFO  testCases.TC001_AccountRegistration.verify_account_registration(TC001_AccountRegistration.java:87)oggger - *****clicked on continue *****
+19:33:24.765 [main] INFO  testCases.TC001_AccountRegistration.verify_account_registration(TC001_AccountRegistration.java:125)oggger - ****Finished test case**********
+19:33:25.147 [main] INFO  testBase.BaseClass.teardown(BaseClass.java:140)oggger - Driver quit successfully
+19:33:25.941 [main] INFO  testBase.BaseClass.setup(BaseClass.java:110)oggger - Local WebDriver initialized: chrome
+19:33:27.023 [main] INFO  testBase.BaseClass.setup(BaseClass.java:124)oggger - Navigated to: https://tutorialsninja.com/demo/
+19:33:47.027 [main] INFO  testCases.TC002_Login.verifyLogin(TC002_Login.java:17)oggger - *****Starting the test case*********
+19:33:47.107 [main] INFO  testCases.TC002_Login.verifyLogin(TC002_Login.java:23)oggger - *****clicked on my account *****
+19:33:47.414 [main] INFO  testCases.TC002_Login.verifyLogin(TC002_Login.java:26)oggger - *****clicked on Register *****
+19:33:52.492 [main] INFO  testBase.BaseClass.teardown(BaseClass.java:140)oggger - Driver quit successfully
+19:42:40.611 [main] INFO  testBase.BaseClass.setup(BaseClass.java:110)oggger - Local WebDriver initialized: chrome
+19:42:41.431 [main] INFO  testBase.BaseClass.setup(BaseClass.java:124)oggger - Navigated to: https://tutorialsninja.com/demo/
+19:43:01.457 [main] INFO  testCases.TC001_AccountRegistration.verify_account_registration(TC001_AccountRegistration.java:46)oggger - *****Starting test case *****
+19:43:01.607 [main] INFO  testCases.TC001_AccountRegistration.verify_account_registration(TC001_AccountRegistration.java:59)oggger - *****clicked on my account *****
+19:43:02.484 [main] INFO  testCases.TC001_AccountRegistration.verify_account_registration(TC001_AccountRegistration.java:62)oggger - *****clicked on Register *****
+19:43:06.857 [main] INFO  testCases.TC001_AccountRegistration.verify_account_registration(TC001_AccountRegistration.java:87)oggger - *****clicked on continue *****
+19:43:06.924 [main] INFO  testCases.TC001_AccountRegistration.verify_account_registration(TC001_AccountRegistration.java:125)oggger - ****Finished test case**********
+19:43:07.263 [main] INFO  testBase.BaseClass.teardown(BaseClass.java:140)oggger - Driver quit successfully
+19:43:08.000 [main] INFO  testBase.BaseClass.setup(BaseClass.java:110)oggger - Local WebDriver initialized: chrome
+19:43:15.917 [main] INFO  testBase.BaseClass.setup(BaseClass.java:124)oggger - Navigated to: https://tutorialsninja.com/demo/
+19:43:35.922 [main] INFO  testCases.TC002_Login.verifyLogin(TC002_Login.java:17)oggger - *****Starting the test case*********
+19:43:36.021 [main] INFO  testCases.TC002_Login.verifyLogin(TC002_Login.java:23)oggger - *****clicked on my account *****
+19:43:36.286 [main] INFO  testCases.TC002_Login.verifyLogin(TC002_Login.java:26)oggger - *****clicked on Register *****
+19:43:40.843 [main] INFO  testBase.BaseClass.teardown(BaseClass.java:140)oggger - Driver quit successfully
